@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup of lab5.docx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Game/BoardGame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Game/Game.java" afterDir="false" />
@@ -60,6 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -108,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660006545105</updated>
       <workItem from="1660006547082" duration="12155000" />
+      <workItem from="1660027004833" duration="334000" />
     </task>
     <servers />
   </component>
